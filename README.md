@@ -8,13 +8,13 @@ I build and ship AI-powered products that solve real problems. From idea to laun
 
 ## 🚀 Products I've Shipped
 
-| Product | Description |
-|---------|-------------|
-| [**ClawPilot**](https://clawpilot.life) | Your personal AI on WhatsApp |
-| [**TubeChatAI**](https://tubechatai.xyz) | Chat with any YouTube video |
-| [**MemoMind**](https://memomind.space) | AI-powered voice memo insights |
-| [**VibeX**](https://vibx.space) | AI growth tool for X/Twitter |
-| [**VigilAI**](https://vigilai.watch) | Brand monitoring across AI assistants |
+| Product | Description | Launched |
+|---------|-------------|----------|
+| [**ClawPilot**](https://clawpilot.life) | Your personal AI on WhatsApp | Mar 2026 |
+| [**TubeChatAI**](https://tubechatai.xyz) | Chat with any YouTube video | Sep 2025 |
+| [**MemoMind**](https://memomind.space) | AI-powered voice memo insights | Oct 2025 |
+| [**VibeX**](https://vibx.space) | AI growth tool for X/Twitter | Dec 2025 |
+| [**VigilAI**](https://vigilai.watch) | Brand monitoring across AI assistants | Jan 2026 |
 
 ---
 
