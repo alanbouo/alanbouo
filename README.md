@@ -10,6 +10,7 @@ I build and ship AI-powered products that solve real problems. From idea to laun
 
 | Product | Description |
 |---------|-------------|
+| [**ClawPilot**](https://clawpilot.life) | Your personal AI on WhatsApp |
 | [**TubeChatAI**](https://tubechatai.xyz) | Chat with any YouTube video |
 | [**MemoMind**](https://memomind.space) | AI-powered voice memo insights |
 | [**VibeX**](https://vibx.space) | AI growth tool for X/Twitter |
