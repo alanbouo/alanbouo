@@ -1,20 +1,21 @@
 # Hey, I'm Alan 👋
 
-**AI App Builder** from Sevilla, Spain 🇪🇸
+**AI & Cybersecurity Builder** from Lyon, France 🇫🇷
 
-I build and ship AI-powered products that solve real problems. From idea to launch, I create tools people actually use.
+I build AI-powered products and explain what I learn about AI and cybersecurity along the way.
 
 ---
 
-## 🚀 Products I've Shipped
+## 🚀 Products
 
-| Product | Description | Launched |
-|---------|-------------|----------|
-| [**ClawPilot**](https://clawpilot.life) | Your personal AI on WhatsApp | Mar 2026 |
-| [**TubeChatAI**](https://tubechatai.xyz) | Chat with any YouTube video | Sep 2025 |
-| [**MemoMind**](https://memomind.space) | AI-powered voice memo insights | Oct 2025 |
-| [**VibeX**](https://vibx.space) | AI growth tool for X/Twitter | Dec 2025 |
-| [**VigilAI**](https://vigilai.watch) | Brand monitoring across AI assistants | Jan 2026 |
+| Product | Description | Status | Since |
+|---------|-------------|--------|-------|
+| [**TubeChatAI**](https://tubechatai.xyz) | Chat with any YouTube video | Live | Sep 2025 |
+| [**MemoMind**](https://memomind.space) | AI-powered voice memo insights | Live | Oct 2025 |
+| [**CookSmart**](https://cooksmart.app) | AI cooking assistant: meal plans, recipes, smart grocery lists | Live | Jul 2026 |
+| [**VibeX**](https://vibx.space) | AI growth tool for X/Twitter | In development | Dec 2025 |
+| [**VigilAI**](https://vigilai.watch) | Brand monitoring across AI assistants | In development | Jan 2026 |
+| [**ClawPilot**](https://clawpilot.life) | Your personal AI on WhatsApp | In development | Mar 2026 |
 
 ---
 
@@ -39,5 +40,5 @@ I build and ship AI-powered products that solve real problems. From idea to laun
 ---
 
 <p align="center">
-  <i>Building in public • Shipping fast • Learning always</i>
+  <i>Shipping real products, explaining what I learn along the way.</i>
 </p>
