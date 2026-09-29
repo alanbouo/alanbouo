@@ -1,21 +1,22 @@
-# Hey, I'm Alan 👋
+# Salut, moi c'est Alan 👋
 
-**AI & Cybersecurity Builder** from Lyon, France 🇫🇷
+**Expert IA & cybersécurité** basé à Lyon 🇫🇷
 
-I build AI-powered products and explain what I learn about AI and cybersecurity along the way.
+Je construis des produits IA et j'explique ce que j'apprends sur [YouTube](https://youtube.com/@alanbouo).
 
 ---
 
-## 🚀 Products
+## 🚀 Produits
 
-| Product | Description | Status | Since |
-|---------|-------------|--------|-------|
-| [**TubeChatAI**](https://tubechatai.xyz) | Chat with any YouTube video | Live | Sep 2025 |
-| [**MemoMind**](https://memomind.space) | AI-powered voice memo insights | Live | Oct 2025 |
-| [**CookSmart**](https://cooksmart.app) | AI cooking assistant: meal plans, recipes, smart grocery lists | Live | Jul 2026 |
-| [**VibeX**](https://vibx.space) | AI growth tool for X/Twitter | In development | Dec 2025 |
-| [**VigilAI**](https://vigilai.watch) | Brand monitoring across AI assistants | In development | Jan 2026 |
-| [**ClawPilot**](https://clawpilot.life) | Your personal AI on WhatsApp | In development | Mar 2026 |
+| Produit | Description | Statut | Depuis |
+|---------|-------------|--------|--------|
+| [**Promptothèque**](https://promptotheque.eu) | Bibliothèque de prompts en français, avec extension navigateur | En préparation du lancement | Sep 2026 |
+| [**CookSmart**](https://apps.apple.com/fr/app/cooksmart-ai-recipes/id6761052282) | Assistant cuisine IA : recettes, planning de repas, listes de courses | Sur l'App Store | Jul 2026 |
+| [**TubeChatAI**](https://tubechatai.xyz) | Discuter avec n'importe quelle vidéo YouTube | En ligne | Sep 2025 |
+| [**MemoMind**](https://memomind.space) | Analyse IA de mémos vocaux | En ligne | Oct 2025 |
+| [**VibeX**](https://vibx.space) | Outil de croissance IA pour X/Twitter | En développement | Déc 2025 |
+| [**VigilAI**](https://vigilai.watch) | Suivi de marque dans les assistants IA | En développement | Jan 2026 |
+| [**ClawPilot**](https://clawpilot.life) | Ton assistant IA personnel sur WhatsApp | En développement | Mar 2026 |
 
 ---
 
@@ -32,7 +33,7 @@ I build AI-powered products and explain what I learn about AI and cybersecurity 
 
 ---
 
-## 📫 Connect
+## 📫 Me retrouver
 
 [![Website](https://img.shields.io/badge/Website-alanbouo.com-667eea?style=flat)](https://alanbouo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-alanbouo-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/alanbouo)
@@ -42,5 +43,5 @@ I build AI-powered products and explain what I learn about AI and cybersecurity 
 ---
 
 <p align="center">
-  <i>Shipping real products, explaining what I learn along the way.</i>
+  <i>Je construis des produits, et j'explique ce que j'apprends en chemin.</i>
 </p>
